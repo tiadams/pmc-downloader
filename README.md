@@ -1,4 +1,4 @@
-# PubMedCentral automatic PDF/XML Downloader
+# PubMedCentral (PMC) automatic PDF/XML Downloader
 Downloads full-text PDFs (or any other soruces) from PubmedCentral OA articles
 
 # How to use
