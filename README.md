@@ -11,4 +11,6 @@ After inputting your desired document identifiers into the file ids.txt, just ex
 4. Move and rename the pdfs (or any other source type if you want to adapt the `copy_rename.sh` scripts `suffix` constant, e.g. to `nxml`)
 5. Remove the downloaded files
 
+Your files will be in the `pdf` folder, named as `PMC${ID}.${SUFFIX}`
+
 **Depending on the number of requested ids, this process may take a while and may require several GBs of disk space**
